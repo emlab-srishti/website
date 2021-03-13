@@ -4,6 +4,11 @@ include 'config.php';
 
 <?php include 'partials/pre-load.php'; ?>
 
+<style>
+img {
+    width: 100%;
+}
+</style>
 <body>
     <div class="container-fluid">
 
