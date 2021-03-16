@@ -25,8 +25,9 @@ include 'config.php';
 
         <div class="row align-items start mt-3">
             <div class="col-lg-12">
-                <p class="serif">15th March 2020 - First four pages from A Mathematician’s Lament by Paul Lockhart https://www.mimuw.edu.pl/~pawelst/rzut_oka/Zajecia_dla_MISH_2011-12/Lektury_files/LockhartsLament.pdf</p>
-                <p class="serif">16th March 2020 - How to Find the Logarithm of Any Number Using Nothing But a Piece of String by Viktor Bla ̊sjo https://www.maa.org/sites/default/files/pdf/awards/college.math.j.47.2.95.pdf</p>
+                <p class="serif">15th March 2021 - First four pages from A Mathematician’s Lament by Paul Lockhart https://www.mimuw.edu.pl/~pawelst/rzut_oka/Zajecia_dla_MISH_2011-12/Lektury_files/LockhartsLament.pdf</p>
+                <p class="serif">16th March 2021 - How to Find the Logarithm of Any Number Using Nothing But a Piece of String by Viktor Blasjo https://www.maa.org/sites/default/files/pdf/awards/college.math.j.47.2.95.pdf</p>
+                <p class="serif">17th March 2021 - The Tunnel of Samos by Tom M Apostle https://webs.um.es/pherrero/apostol_eupalinos.pdf</p>
             </div>
         </div>
 
