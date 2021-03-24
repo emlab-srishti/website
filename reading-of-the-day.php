@@ -30,6 +30,7 @@ include 'config.php';
                 <p class="serif">17th March 2021 - The Tunnel of Samos by Tom M Apostle https://webs.um.es/pherrero/apostol_eupalinos.pdf</p>
                 <p class="serif">22th March 2021 - Page 5 onwards from A Mathematician’s Lament by Paul Lockhart https://www.mimuw.edu.pl/~pawelst/rzut_oka/Zajecia_dla_MISH_2011-12/Lektury_files/LockhartsLament.pdf</p>
                 <p class="serif">23rd March 2021 - The Parallel Climbers Puzzle by Alan Tucker https://www.maa.org/sites/default/files/pdf/upload_library/22/Evans/november_1995_22.pdf</p>
+                <p class="serif">24th March 2021 - The Beginning of the Monte Carlo Method by N. Metropolis</p>
             </div>
         </div>
 
